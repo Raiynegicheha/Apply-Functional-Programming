@@ -5,3 +5,5 @@ function urlSlug(title) {
   console.log(arr);
   return arr;
 } 
+
+urlSlug("A Mind Needs Books Like A Sword Needs A Whetstone");
